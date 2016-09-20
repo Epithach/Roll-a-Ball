@@ -63,8 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scprits_\CameraController.cs" />
-    <Compile Include="Assets\Scprits_\PlayerController.cs" />
+    <Compile Include="Assets\Scprits\CameraController.cs" />
+    <Compile Include="Assets\Scprits\PlayerController.cs" />
+    <Compile Include="Assets\Scprits\Rotator.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
